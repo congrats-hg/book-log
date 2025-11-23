@@ -18,7 +18,7 @@ print(f"{title} ({pages})")
 <br>
 
 | 날짜 | 읽은 것 | 페이지 수 | Takeaways |
-|---|---|---|---|
+|:---:|---:|:---:|:---|
 |  |  |  |  |
 | 251123 | [OpenAI Cookbook / GPT-5 New Params and Tools](https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools) | 10 |  |
 |  | [OpenAI / Docs / Guides / tools / web-search](https://platform.openai.com/docs/guides/tools-web-search?utm_source=chatgpt.com&api-mode=responses) | 3 | |
