@@ -17,7 +17,7 @@ print(f"{title} ({pages})")
 
 <br>
 
-| 날짜 | 읽은 것 | 페이지 수 | Takeaways |
+| YYMMDD (Total) | Titles | Pages | Takeaways |
 |:---:|---:|:---:|:---|
 |  |  |  |  |
 | 251124 | [OpenAI / Docs / Guides / tools / web-search](https://platform.openai.com/docs/guides/tools-web-search?utm_source=chatgpt.com&api-mode=responses) | 3 |  |
@@ -25,4 +25,4 @@ print(f"{title} ({pages})")
 |  | [OpenAI / Docs / Prompting / Overview \~ Prompt Engineering](https://platform.openai.com/docs/guides/prompting) | 11 |  |
 |  | [OpenAI / Docs / Prompting / Overview \~ Priority Processing](https://platform.openai.com/docs/guides/latency-optimization) | 11 |  |
 |  | [OpenAI / Docs / Cost Optimization / Batch](https://platform.openai.com/docs/guides/batch) | 4 |  |
-| 251123 | [OpenAI Cookbook / GPT-5 New Params and Tools](https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools) | 10 | - Recommended: __Responses API__ with GPT-5 series of model to get the most performance out of the models <br> - high verbosity → great for hand-offs <br> - Use `from IPython.display import display` for structured output on terminal <br> - CFGs can capture the syntax of most programming languages and, in OpenAI custom tools, serve as contracts that force the model to emit only strings that the grammar accepts. <br> - `reasoning = { "effort": "minimal" },` is useful when only fast, simple answer is needed. default is medium |
+| 251123 (10) | [OpenAI Cookbook / GPT-5 New Params and Tools](https://cookbook.openai.com/examples/gpt-5/gpt-5_new_params_and_tools) | 10 | - Recommended: __Responses API__ with GPT-5 series of model to get the most performance out of the models <br> - high verbosity → great for hand-offs <br> - Use `from IPython.display import display` for structured output on terminal <br> - CFGs can capture the syntax of most programming languages and, in OpenAI custom tools, serve as contracts that force the model to emit only strings that the grammar accepts. <br> - `reasoning = { "effort": "minimal" },` is useful when only fast, simple answer is needed. default is medium |
